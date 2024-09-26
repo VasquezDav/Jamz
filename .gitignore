@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-*
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+dist/
+build/
+*.egg-info/
+
+# Configuration
+.env
+*.local
+
+# Testing
+coverage/
+*.coverage
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+
+# Others
+*.zip
+*.tar.gz
